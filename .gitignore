@@ -1,0 +1,17 @@
+# Исходный датасет
+UNSW_NB15_training-set.csv
+
+# Временные файлы Python
+__pycache__/
+*.pyc
+
+# Служебные файлы Jupyter Notebook
+.ipynb_checkpoints/
+
+# Виртуальные окружения
+.venv/
+venv/
+
+# Системные файлы
+.DS_Store
+Thumbs.db
